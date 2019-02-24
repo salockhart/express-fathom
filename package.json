@@ -1,0 +1,25 @@
+{
+  "name": "express-fathom",
+  "version": "1.0.0",
+  "description": "Express middleware for Fathom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salockhart/express-fathom.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Alex Lockhart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salockhart/express-fathom/issues"
+  },
+  "homepage": "https://github.com/salockhart/express-fathom#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
